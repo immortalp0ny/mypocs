@@ -3,7 +3,10 @@
 
 Here I store my proof of concepts
 
+!!! ALL INFORMATION IS PROVIDED FOR EDUCATIONAL ONLY PURPOSES !!!
+
 ## Patchdiff
+
 
 * [cve-2023-23410](cve-2023-23410/README.md)
 * [cve-2023-29336](cve-2023-29336/README.md)
